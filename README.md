@@ -25,6 +25,4 @@ Other options linked to particular columns of database
 
 
 
-
-Group Leader- Aanchal
-Members- Shivang, Amaan, Apeksha, Utkarsh
+Apeksha, Aanchal ,Shivang, Amaan, Utkarsh
