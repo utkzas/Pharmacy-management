@@ -1,0 +1,16 @@
+med_id,med_name,med_cost,discount,quantity,orders
+1,ibuprofen,48,5,10,0
+2,naproxen,91,1,20,4
+3,Maalox,345,10,30,23
+4,dextromethorphan,65,15,40,1
+5,guaifenesin,234,0,10,6
+6,Mucinex,654,0,20,8
+7,loperamide,87,4,24,1
+8,bismuth subsalicylate,90,7,45,2
+9,diphenoxylate,20,25,36,6
+10,Neosporin,390,3,78,5
+11,topical hydrocortisone,106,7,95,5
+12,diphenhydramine,273,5,35,5
+13,fexofenadine,52,15,45,13
+14,loratadine,97,25,15,23
+15,Claritin,45,0,10,7
